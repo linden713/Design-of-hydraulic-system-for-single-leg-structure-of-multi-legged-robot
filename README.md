@@ -16,5 +16,4 @@ This repository focuses on the design of the hydraulic system, particularly the 
 
 For any questions, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **GitHub**: [linden713](https://github.com/linden713)
